@@ -6,8 +6,8 @@ A front end clone of the original [Udemy Website](https://www.udemy.com/).
 
 This is a clone of the Udemy website created using React JS.
 
-This project was made as an Open Source contribution for the project [Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT). 
-[Pull Request](https://github.com/Rayman-Sodhi/Clone-IT/pull/569)
+This project was made as an Open Source contribution for the project [Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT). <br>
+[See Pull Request](https://github.com/Rayman-Sodhi/Clone-IT/pull/569)
 
 ## 🖥️ Deployed Website
 
