@@ -11,6 +11,8 @@ This project was made as an Open Source contribution for the project [Clone-IT](
 
 ## 📸 Screenshots
 
+<img align="right" width="300" src="https://github.com/mahiiverse1/Udemy-Clone/blob/main/Screenshot%202022-07-04%20at%204.53.50%20PM.png" alt="clone this repository" />
+
 https://github.com/mahiiverse1/Udemy-Clone/blob/main/Screenshot%202022-07-04%20at%204.53.50%20PM.png
 
 ## 🖥️ Deployed Website
